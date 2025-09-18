@@ -1,8 +1,8 @@
 # EXECUTION-OF-TIMER-OPERATIONS-USING-LADDER-LOGIC-PROGRAMMING
 
 
- #### NAME : HEMA LOKITHA P
- #### REGISTER NUMBER :212223110014
+ #### NAME :SHARON STEFFANI.F
+ #### REGISTER NUMBER :212223110049
  #### DEPARTMENT : IOT
  #### YEAR : III
 
@@ -14,7 +14,7 @@ To understand and implement timer operations in a PLC using ladder logic and ver
 Programmable Logic Controller (PLC) - A PLC that supports timer functions.
 PLC Programming Software - Software such as RSLogix, TIA Portal, or CX-Programmer.
 Computer System - For programming and simulating the PLC ladder logic.
-Input Devices - Push buttons or switches for triggering the timer operations.
+Input Devices - Push buttons or switches for triggering the timer operations.a
 Output Devices - LEDs or any other indicators to visualize the timer output.
 Wires and Connectors - For interfacing input/output devices with the PLC.
 Power Supply - Appropriate power supply for the PLC and peripherals.
